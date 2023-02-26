@@ -1,2 +1,4 @@
 # Simple Scraper API
-File scraper API for Simple Energy selection process
+:usa: File scraper API for Simple Energy selection process.
+
+:brazil: API de extrator de arquivos para o processo seletivo da Simple Energy.
